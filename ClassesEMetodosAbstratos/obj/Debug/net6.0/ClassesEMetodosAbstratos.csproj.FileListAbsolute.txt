@@ -1,0 +1,15 @@
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\bin\Debug\net6.0\ClassesEMetodosAbstratos.exe
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\bin\Debug\net6.0\ClassesEMetodosAbstratos.deps.json
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\bin\Debug\net6.0\ClassesEMetodosAbstratos.runtimeconfig.json
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\bin\Debug\net6.0\ClassesEMetodosAbstratos.dll
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\bin\Debug\net6.0\ClassesEMetodosAbstratos.pdb
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\obj\Debug\net6.0\ClassesEMetodosAbstratos.csproj.AssemblyReference.cache
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\obj\Debug\net6.0\ClassesEMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\obj\Debug\net6.0\ClassesEMetodosAbstratos.AssemblyInfoInputs.cache
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\obj\Debug\net6.0\ClassesEMetodosAbstratos.AssemblyInfo.cs
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\obj\Debug\net6.0\ClassesEMetodosAbstratos.csproj.CoreCompileInputs.cache
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\obj\Debug\net6.0\ClassesEMetodosAbstratos.dll
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\obj\Debug\net6.0\refint\ClassesEMetodosAbstratos.dll
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\obj\Debug\net6.0\ClassesEMetodosAbstratos.pdb
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\obj\Debug\net6.0\ClassesEMetodosAbstratos.genruntimeconfig.cache
+D:\Lab\Estudos\Exercícios\C#\ClassesEMetodosAbstratos\ClassesEMetodosAbstratos\obj\Debug\net6.0\ref\ClassesEMetodosAbstratos.dll
